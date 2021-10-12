@@ -1,0 +1,3 @@
+C:/Users/nekoimi/Developer/cpp_projects/Nekoimi/fastget-src/build/CMakeFiles/fastget.dir
+C:/Users/nekoimi/Developer/cpp_projects/Nekoimi/fastget-src/build/CMakeFiles/edit_cache.dir
+C:/Users/nekoimi/Developer/cpp_projects/Nekoimi/fastget-src/build/CMakeFiles/rebuild_cache.dir

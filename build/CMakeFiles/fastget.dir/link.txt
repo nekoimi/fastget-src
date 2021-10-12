@@ -1,0 +1,3 @@
+"C:\Application\JetBrains\CLion 2021.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\fastget.dir/objects.a
+C:\Application\SDK\MinGW\mingw64\bin\ar.exe cr CMakeFiles\fastget.dir/objects.a @CMakeFiles\fastget.dir\objects1.rsp
+C:\Application\SDK\MinGW\mingw64\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\fastget.dir/objects.a -Wl,--no-whole-archive -o fastget.exe -Wl,--out-implib,libfastget.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\fastget.dir\linklibs.rsp
