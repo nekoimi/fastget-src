@@ -9,8 +9,9 @@ int main(int argc, const char* argv[]) {
     }
 
     const char* url = argv[1];
-    const char* domain = parse_schema(url);
-    parse_domain(url, domain);
-
+    const char* schema = parse_schema(url);
+    const char* domain = parse_domain(url, schema);
+    const char* host = parse_host(domain);
+    int port = parse_port(domain, schema);
     return 0;
 }
