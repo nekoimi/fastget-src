@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 #include "url_parse.h"
+#include "test.h"
 
 int main(int argc, const char* argv[]) {
     if (argc != 2) {
